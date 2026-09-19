@@ -1,0 +1,6 @@
+{
+  "name": "Dream Caught Operating Centre",
+  "description": "AI Studio Sovereign Node running the Sival Core, Gemma 4 / V8 Zebra Pipeline, and living execution registry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
